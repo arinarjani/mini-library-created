@@ -1,2 +1,1 @@
-# mini-library-created
-This is a project I made in JavaScript: Understanding the Weird Parts
+This is a mini library created in the JavaScript: Understanding the Weird Parts.  I learned about IIFE's, closure, scope, hoisting, how to chain functions when calling, and how to create my own keyword to call the library.
